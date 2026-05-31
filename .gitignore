@@ -1,0 +1,12 @@
+*
+!.gitignore
+!README.md
+!requirements.txt
+!题目/
+!题目/**
+!solution/
+!solution/**
+!data/
+data/*
+!data/raw/
+!data/raw/**
